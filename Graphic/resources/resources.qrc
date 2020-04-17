@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/mesh">
+        <file>spheres.obj</file>
+    </qresource>
+</RCC>
